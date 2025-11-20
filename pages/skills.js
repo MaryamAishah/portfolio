@@ -6,11 +6,11 @@ import styles from '../styles/Home.module.css'
 export default function Skills() {
   return (
     <>
-      <Head><title>Skills — Maryam Aishah</title></Head>
+      <Head><title><center>Skills — Maryam Aishah</center></title></Head>
       <Header />
       <main className={styles.main}>
         <div className={styles.containerWide}>
-          <h2>Skills</h2>
+          <h1><center>Skills</center></h1>
           <div className={styles.skillGrid}>
             <div className={styles.skillCard}>
               <h4>Machine Learning</h4>

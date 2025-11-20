@@ -32,21 +32,18 @@ export default function Home() {
 
           <SectionCard title="Projects">
             <ul>
-              <li>Project A — short description</li>
-              <li>Project B — short description</li>
-              <li>Project C — short description</li>
+              <li>Project A</li>
+              <li>Project B</li>
+              <li>Project C</li>
             </ul>
           </SectionCard>
 
           <SectionCard title="Publications">
-            <p>List publications, preprints or links here.</p>
+            <p>To be updated.</p>
           </SectionCard>
 
           <SectionCard title="Contact">
-            <a 
-  href="mailto:maryam@example.com"
-  className={styles.button}   
->
+            <a href="mailto:maryamaishah08@gmail.com" className={styles.button}>
   Email Me
 </a>
           </SectionCard>

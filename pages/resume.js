@@ -12,7 +12,7 @@ export default function Resume() {
       <Header />
       <main className={styles.main}>
         <div className={styles.containerWide}>
-          <h2>Resume</h2>
+          <h1><center>Resume</center></h1>
           <section>
             <h3>Education</h3>
             <p>Bishop Cotton College — High School (Jun 2024-Apr 2026)</p>
@@ -36,6 +36,7 @@ export default function Resume() {
             <h3>Skills</h3>
             <p>Machine learning, Python, PyTorch, SQL, REST APIs, HTML, Java</p>
           </section>
+          
         </div>
       </main>
       <Footer />
