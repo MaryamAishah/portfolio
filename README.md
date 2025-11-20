@@ -32,7 +32,6 @@ http://localhost:3000
 
 ## 🌐 Deployment
 This site is deployed via Vercel.
-Any push to the main branch will automatically trigger a new deployment.
 
 ## 📬 Contact
 If you'd like to reach out, you can use the contact form on the website or email me directly:
