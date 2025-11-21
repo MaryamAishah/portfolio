@@ -35,7 +35,7 @@ label { display:block; margin-bottom:12px; color:var(--muted); }
 input, textarea {
   width:100%;
   padding:10px 12px;
-  background:rgba(255,255,255,0.03);
+  background:rgba(179, 174, 240, 0.03);
   border:1px solid rgba(255,255,255,0.04);
   color:var(--text);
   border-radius:8px;

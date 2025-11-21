@@ -16,7 +16,6 @@ export default function Resume() {
           <section>
             <h3>Education</h3>
             <p>Bishop Cotton College — High School (Jun 2024-Apr 2026)</p>
-            <p>The Grandeur International School — High School (Jun 2020-Apr 2024)</p>
           </section>
           <section>
             <h3>Experience</h3>
@@ -28,13 +27,31 @@ export default function Resume() {
 
           <section>
             <h3>Awards & Honors</h3>
-            <p>National Merit Scholarship Semifinalist (Aug 2025)</p>
-            <p>1st Place Winner of International Qur'an Competition (Mar 2025)</p>
+            <ul>
+              <li>National Merit Scholarship Semifinalist (Aug 2025)</li>
+              <li>1st Place Winner of International Qur'an Competition (Mar 2025)</li>
+            </ul>
+          </section>
+          <section>
+            <h3>Projects</h3>
+            <h4>PromptSmith</h4>
+            <a href="https://github.com/MaryamAishah/PromptSmith"><u>GitHub</u></a>
+              <ul>
+              <li>LLM-powered prompt optimizer built with Node.js, Next.js, and Gemini APIs</li>
+              <li>Uses a custom prompt-analysis pipeline for precision rewriting and semantic boosting</li>
+              <li>User interface built using React for input, refinement, and comparison workflows</li>
+            </ul>
+            <h4>Unravel</h4>
+            <a href="https://github.com/MaryamAishah/unravel"><u>GitHub</u></a>
+              <ul>
+              <li>Python explainer built with React, Pyodide (for in-browser execution), and a custom AST parser</li>
+              <li>Simulates code execution, breaks down code line-by-line, and detects and explains runtime and logic errors</li>
+            </ul>
           </section>
 
           <section>
             <h3>Skills</h3>
-            <p>Machine learning, Python, PyTorch, SQL, REST APIs, HTML, Java</p>
+            <p>Machine learning, Programming, Web Development, Research</p>
           </section>
           
         </div>
