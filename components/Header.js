@@ -6,7 +6,7 @@ export default function Header() {
     <header className={styles.header}>
       <div className={styles.container}>
         <div className={styles.brand}>
-          <Link href="/" className={styles.name}>Maryam Aishah</Link>
+          <Link href="/" className={styles.name}>Maryam Roomi</Link>
           <span className={styles.role}>AI × CS · Student</span>
         </div>
 

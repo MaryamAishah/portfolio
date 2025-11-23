@@ -6,7 +6,7 @@ import styles from '../styles/Home.module.css'
 export default function Skills() {
   return (
     <>
-      <Head><title><center>Skills — Maryam Aishah</center></title></Head>
+      <Head><title><center>Skills - Maryam</center></title></Head>
       <Header />
       <main className={styles.main}>
         <div className={styles.containerWide}>

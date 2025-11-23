@@ -13,19 +13,11 @@ import Footer from '../components/Footer'
 import Hero from '../components/Hero'
 import SectionCard from '../components/SectionCard'
 import styles from '../styles/Home.module.css'
-import { 
-  CpuChipIcon,        
-  CommandLineIcon,    
-  GlobeAltIcon,       
-  LightBulbIcon       
-} from "@heroicons/react/24/outline";
-import { TbMathFunction } from "react-icons/tb";
-import { FaRobot } from "react-icons/fa";
 export default function Home() {
   return (
     <>
       <Head>
-        <title>Maryam Aishah — AI × CS</title>
+        <title>Maryam Roomi</title>
         <meta
           name="description"
           content="AI × CS | Machine learning, deep learning, programming."
@@ -36,7 +28,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <Hero
-          title="Maryam Aishah"
+          title="Maryam Roomi"
           subtitle="Computer Science student & emerging AI developer"
           ctaText="See Resume"
         />
@@ -44,9 +36,10 @@ export default function Home() {
         <section className={styles.aboutSection}>
           <SectionCard title="About">
             <p>
-              Hi, I'm Maryam, a high school senior exploring AI and Automated Systems.
-              On this website you can find my <br></br>projects, research, and anything else
-              I build along the way.
+              Hi, I’m Maryam! I'm an aspiring software developer and AI enthusiast. Passionate about advancing AI,
+              I aim to <br></br>build innovative solutions through technology, with research interests in cognitive science, AGI, and the future of <br></br> machine learning.
+
+
             </p>
           </SectionCard>
         </section>
@@ -72,7 +65,7 @@ export default function Home() {
               <h3>PromptSmith</h3>
               <p>
                 A tool that analyzes your prompt in detail and transforms it into
-                a refined set of optimized prompts for maximum impact.
+                a refined set of optimized prompts tailored for maximum impact.
               </p>
             </div>
 
@@ -90,8 +83,8 @@ export default function Home() {
               </a>
               <h3>Unravel</h3>
               <p>
-                A tool that reads Python code and provides line-by-line explanations,
-                live execution, and error breakdowns.
+                Unravel processes Python code and provides line-by-line explanations,
+                live execution, and error breakdowns. 
               </p>
             </div>
           </div>
@@ -153,7 +146,7 @@ export default function Home() {
       <div className={styles.quickLinks}>
         <a href="mailto:maryamaishah08@gmail.com"><MdEmail size={34} /></a>
         <a href="https://github.com/MaryamAishah"><FaGithub size={34} /></a>
-        <a href="https://linkedin.com/in/maryamaishah/"><FaLinkedin size={34} /></a>
+        <a href="https://linkedin.com/in/maryamroomi/"><FaLinkedin size={34} /></a>
       </div>
       </main>
 

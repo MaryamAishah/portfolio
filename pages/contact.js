@@ -8,7 +8,7 @@ export default function Contact() {
   const [sent, setSent] = useState(false)
   return (
     <>
-      <Head><title>Contact — Maryam Aishah</title></Head>
+      <Head><title>Contact — Maryam</title></Head>
       <Header />
       <main className={styles.main}>
         <div className={styles.containerWide}>
