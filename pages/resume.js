@@ -13,7 +13,7 @@ export default function Resume() {
       <main className={styles.main}>
         <div className={styles.containerWide}>
           <center><h1>Resume</h1>
-          <a href="/Resume.pdf" target="_blank" rel="noopener noreferrer" className={styles.button}>Download PDF</a></center>
+          <a href="/Website- Resume.pdf" target="_blank" rel="noopener noreferrer" className={styles.button}>Download PDF</a></center>
           <section>
             <h2>Education</h2>
             <p>Bishop Cotton College — High School (Jun 2024-Apr 2026)</p>
