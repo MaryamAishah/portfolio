@@ -15,11 +15,11 @@ export default function Resume() {
           <center><h1>Resume</h1>
           <a href="/Website- Resume.pdf" target="_blank" rel="noopener noreferrer" className={styles.button}>Download PDF</a></center>
           <section>
-            <h2>Education</h2>
+            <h2>Education<hr></hr></h2>
             <p>Bishop Cotton College — High School (Jun 2024-Apr 2026)</p>
           </section>
                     <section>
-            <h2>Projects</h2>
+            <h2>Projects<hr></hr></h2>
             <h4>PromptSmith</h4>
             <a href="https://github.com/MaryamAishah/PromptSmith"><u>GitHub</u></a>
               <ul>
@@ -35,7 +35,7 @@ export default function Resume() {
             </ul>
           </section>
           <section>
-            <h2>Experience</h2>
+            <h2>Experience<hr></hr></h2>
             <ul>
               <li><strong>Intern, Cyberry Labs</strong>- Building real-world use-cases on Git, automation platforms, Python, RESTful APIs, and AI tools. (Oct 2025-Present)</li>
               <li><strong>Math Tutor, Schoolhouse.world</strong> — Delivered 15+ hours of engaging SAT and Calculus tutoring sessions to 23 learners, 
@@ -49,7 +49,7 @@ export default function Resume() {
           </section>
 
           <section>
-            <h2>Awards & Honors</h2>
+            <h2>Awards & Honors<hr></hr></h2>
             <ul>
               <li>National Merit Scholarship Semifinalist (Aug 2025)</li>
               <li>1st Place Winner of International Qur'an Competition (Mar 2025)</li>
@@ -59,7 +59,7 @@ export default function Resume() {
           </section>
           
         <section>
-          <h2>Research</h2>
+          <h2>Research<hr></hr></h2>
             <h4>Individual Research Report- IGCSE Global Perspectives</h4>
             <a
   href="/GP-Individual-Report.pdf"
@@ -70,12 +70,12 @@ export default function Resume() {
   <u>Download PDF</u>
 </a>
 <p> Investigated the influence of social media on individuals’ ability to focus 
-through primary and secondary research, and presented my findings in a structured 2000-word research paper.</p>
+through primary and secondary research, and presented my findings in a 2000-word research paper.</p>
          
           </section> 
 
           <section>
-            <h2>Skills</h2>
+            <h2>Skills<hr></hr></h2>
             <p>Python, JavaScript, CSS,  HTML, SQL, Web Development, Machine Learning, Research, Analytical Reasoning, Creative Writing</p>
           </section>
            
