@@ -1,7 +1,7 @@
-# Personal Portfolio – Maryam Aishah
+# Personal Portfolio 
 
-This is my personal portfolio website, built with **Next.js** and **React**.  
-It showcases my background, skills, projects, and a contact form that allows visitors to reach out to me.
+Built with **Next.js** and **React**.  
+Showcases my background, skills, projects, and a contact form.
 
 ## Tech Stack
 - **Next.js 14**
