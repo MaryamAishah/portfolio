@@ -14,6 +14,7 @@ export default function Header() {
           <Link href="/">Home</Link>
           <Link href="/resume">Resume</Link>
           <Link href="/skills">Skills</Link>
+          <Link href="https://www.notion.so/The-Falcon-2c33499a627f8036969ae85048992aab">Blog</Link>
           <Link href="/contact">Contact</Link>
         </nav>
       </div>
