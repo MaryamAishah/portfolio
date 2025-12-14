@@ -12,8 +12,7 @@ export default function Resume() {
       <Header />
       <main className={styles.main}>
         <div className={styles.containerWide}>
-          <center><h1>Resume</h1>
-          <a href="/Website- Resume.pdf" target="_blank" rel="noopener noreferrer" className={styles.button}>Download PDF</a></center>
+          <center><h1>Resume</h1></center>
           <section>
             <h2>Education<hr></hr></h2>
             <p>Bishop Cotton College — High School (Jun 2024-Apr 2026)</p>
@@ -41,7 +40,6 @@ export default function Resume() {
               <li><strong>Math Tutor, Schoolhouse.world</strong> — Delivered 15+ hours of engaging SAT and Calculus tutoring sessions to 23 learners, 
               enhancing comprehension and problem-solving skills and promoting a supportive academic environment (Apr 2025-Present)   
               <ol> <a href="https://schoolhouse.world/transcript/153771aa-d5a6-48d7-9781-232c4e139cd2"> <u>Live Tutoring Portfolio</u></a></ol></li>
-              <li><strong>Qur'an Teacher</strong>- Conducted memorization workshops and Qur'an recitation correction sessions. (May 2024-Present)</li>
               <li><strong>Python Programmer</strong> — Completed the Python CIP course by Stanford University. 
               Used skills learnt to create various projects (Apr-May 2024)
                <ol> <a href="https://codeinplace.stanford.edu/cip4/certificate/d58xj8"> <u>Certificate</u></a></ol></li>
