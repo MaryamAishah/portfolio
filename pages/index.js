@@ -87,6 +87,23 @@ export default function Home() {
                 live execution, and error breakdowns. 
               </p>
             </div>
+            <div className={styles.projectCard}>
+              <a
+                href="https://numuweb.vercel.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <img
+                  src="/images/numu.jpeg"
+                  alt="Numu Project Thumbnail"
+                  className={styles.projectImage}
+                />
+              </a>
+              <h3>Numu</h3>
+              <p>
+                A habit tracker that helps users build and maintain positive habits through streak tracking and reminders. 
+              </p>
+            </div>
           </div>
         </section>
 
